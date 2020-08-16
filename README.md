@@ -56,7 +56,7 @@ it'll run out of the box, you need to install additional software.
 ## Freedb
 
 Freedb servers are gone. For existing installations, [download this plugin](https://github.com/jack-cli-cd-ripper/jack/raw/master/plugins/jack_plugin_gnudb.py)
-to ~/.jack_plugins/ (create directory). Then run
+to ~/.jack.plugins/ (create directory). Then run
 ```shell
 jack --server plugin_gnudb --save
 ```
